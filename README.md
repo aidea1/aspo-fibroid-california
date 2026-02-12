@@ -140,19 +140,6 @@ The framework is:
 
 Fibroids serve as a proof-of-concept condition.
 
----
-
-## Next Steps
-
-Planned extensions include:
-- Population-adjusted access metrics
-- Insurance stratification
-- Time-series slope modeling
-- Multi-condition dashboards
-- National scaling
-
----
-
 ## Contact
 
 Akshaya Bhagavathula, PhD, Associate Professor of Epidemiology,
