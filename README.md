@@ -4,6 +4,8 @@ Motivation
 Uterine fibroids represent a high-burden women’s health condition characterized by delayed diagnosis, fragmented care pathways, and substantial geographic inequities in access to specialty services. Traditional epidemiologic indicators - claims, encounters, or procedure data - capture utilization only after patients successfully navigate structural barriers to care. As a result, unmet need remains largely invisible until late in the disease course.
 This project evaluates whether population-level digital search behavior, when aligned with geographic access metrics, can function as an earlier, observable signal of unmet health care need. We frame this work as a proof-of-concept for an Adaptive Population Signal Observatory (APSO): a closed-loop digital epidemiology framework that continuously links population concern, structural capacity, and access gaps in near real time.
 
+Dashboard: https://aidea1.github.io/aspo-fibroid-california/
+
 This repository presents a county-level proof-of-concept implementation of the Adaptive Population Signal Observatory (APSO) framework.
 
 The objective is to identify geographic areas in California where elevated population search behavior for uterine fibroid–related care co-occurs with limited geographic access to tertiary specialty services.
