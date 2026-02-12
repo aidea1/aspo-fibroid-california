@@ -88,3 +88,76 @@ The final output is a self-contained HTML map showing:
 
 ## Repository Structure
 
+---
+
+## Outputs
+
+### 1. County-Level Dataset
+
+`data/final_county_fibroid_access_interest_APSO.csv`
+
+Includes:
+- County FIPS
+- County name
+- Centroid coordinates
+- Facility counts by level
+- Distance metrics
+- Annual interest values (2019–2025)
+- Year-specific mismatch indicators
+
+### 2. Interactive Map
+
+`outputs/CA_fibroid_access_interest_county_APSO.html`
+
+Fully portable. No server required.
+
+---
+
+## Observational Pattern (Pilot Signal)
+
+The pilot reveals:
+
+- Concentration of tertiary care in major metropolitan regions.
+- Extended travel distances for interior counties.
+- Persistent high-interest counties with limited specialty proximity.
+
+This supports the hypothesis that digital interest signals can highlight potential geographic access gaps.
+
+---
+
+## Why APSO Matters
+
+APSO operationalizes:
+
+Digital demand signals × Structural capacity metrics  
+→ Actionable geographic diagnostics.
+
+The framework is:
+- Parameter-transparent
+- Condition-agnostic
+- Scalable
+- Reproducible
+
+Fibroids serve as a proof-of-concept condition.
+
+---
+
+## Next Steps
+
+Planned extensions include:
+- Population-adjusted access metrics
+- Insurance stratification
+- Time-series slope modeling
+- Multi-condition dashboards
+- National scaling
+
+---
+
+## Contact
+
+Akshaya Bhagavathula, PhD, Associate Professor of Epidemiology,
+North Dakota State University, Fargo, ND 
+
+Email: akshaya.bhagavathula@ndsu.edu 
+
+Adaptive Population Signal Observatory
